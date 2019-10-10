@@ -1,7 +1,8 @@
 # libinput-force-middle-click-emulation
 
-Force libinput to emulate a middle click when pressing left and right buttons
-simultaneously.  This allows GNOME Wayland (and other Wayland compositors that
+Force libinput to disable on-click scrolling, disables the TrackPoint device
+scrolling when holding the middle mouse button on TrackPoint devices.
+This allows GNOME Wayland (and other Wayland compositors that
 do not expose libinput configuration) to configure the existing libinput
 functionality.
 
