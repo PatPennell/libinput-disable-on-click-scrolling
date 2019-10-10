@@ -1,4 +1,4 @@
-# libinput-force-middle-click-emulation
+# libinput-disable-on-click-scrolling
 
 Force libinput to disable on-click scrolling, disables the TrackPoint device
 scrolling when holding the middle mouse button on TrackPoint devices.
